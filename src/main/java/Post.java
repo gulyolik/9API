@@ -1,5 +1,3 @@
-import java.util.BitSet;
-
 public class Post {
     public boolean subscription;
     public String surname;
